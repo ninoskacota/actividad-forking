@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: Angely Miranda Cabrera
 Carrera: Ingenieria de Sistemas
 Semestre: Sexto
+Nombre de la materia: Actualización Tecnologica
