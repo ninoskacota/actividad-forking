@@ -7,3 +7,4 @@ Nombre:Univ. Calderon Ordoñez Jhonatan Jhonatan
 Carrera: Ingeniería de Sistemas
 Semestre: quinto
 Mención: Dir. y Gestión Empresarial 
+Materia: Actualización Tecnologica
