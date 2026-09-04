@@ -4,6 +4,6 @@ Tecnologías conocidas:
 Git
 GitHub
 Tecnologías que deseo aprender:
-Docker
-Vue
-PostgreSQL
+vercer
+agentes ia 
+python
