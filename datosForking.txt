@@ -2,8 +2,12 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 
 Repositorio principal para práctica de Forking Workflow.
 
+
 Datos del estudiante:
 Nombre: Angely Miranda Cabrera
 Carrera: Ingenieria de Sistemas
 Semestre: Sexto
 Nombre de la materia: Actualización Tecnologica
+
+
+
