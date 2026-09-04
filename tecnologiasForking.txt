@@ -1,9 +1,19 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
+feature-datos
+Git 
+GitHub
+
+Tecnologías que deseo aprender:
+Docker
+Vue
+posgreSQL
+
 Git
 GitHub
 Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
+main

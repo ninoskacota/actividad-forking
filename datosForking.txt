@@ -2,8 +2,16 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 
 Repositorio principal para práctica de Forking Workflow.
 
+feature-datos
+Datos del estudiante:
+Nombre: HUANCA MARCA SAUL ELVIN 
+Carrera:INGENIERIA INFORMATICA
+Semestre:CUARTO-TERCERO
+Mension: Desarrollo de Software
+
 Datos del estudiante:  
 Nombre:Univ. Ninoska Carolina Cota Huallata
 Carrera: Ingeniería de Sistemas
 Semestre: Decimo
 Mención: Gestión de la información 
+main
