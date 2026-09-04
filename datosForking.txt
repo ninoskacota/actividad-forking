@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: HUANCA MARCA SAUL ELVIN 
 Carrera:INGENIERIA INFORMATICA
 Semestre:CUARTO-TERCERO
+Mension: Desarrollo de Software
