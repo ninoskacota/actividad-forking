@@ -1,9 +1,5 @@
 TECNOLOGÍAS
 
-Tecnologías conocidas:
-Git
-GitHub
-Tecnologías que deseo aprender:
-Docker
-Vue
-PostgreSQL
+Tecnologías conocidas: SQL, PYTHON
+
+Tecnologías que deseo aprender: JAVA, JAVASCRIPT

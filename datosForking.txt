@@ -2,8 +2,8 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 
 Repositorio principal para práctica de Forking Workflow.
 
-Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
-Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
+Datos del estudiante:
+Nombre: Cristian Giovanni Castro Montano
+Carrera: Ingenieria Informatica
+Semestre: 5to
+Mencion: Telematica
