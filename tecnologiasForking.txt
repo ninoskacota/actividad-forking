@@ -1,9 +1,10 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
-Git
-GitHub
+- Git
+- GitHub
+
 Tecnologías que deseo aprender:
-Docker
-Vue
-PostgreSQL
+- Docker
+- Vue
+- PostgreSQL
