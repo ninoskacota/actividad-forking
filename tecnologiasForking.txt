@@ -1,9 +1,9 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
-Git
-GitHub
+C++
+Blender
 Tecnologías que deseo aprender:
-Docker
-Vue
-PostgreSQL
+Java
+Phyton
+Photoshop
