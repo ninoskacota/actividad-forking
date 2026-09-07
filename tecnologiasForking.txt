@@ -3,7 +3,7 @@ TECNOLOGÍAS
 Tecnologías conocidas:
 Git
 GitHub
+
 Tecnologías que deseo aprender:
-Docker
-Vue
-PostgreSQL
+scratch
+pseint
