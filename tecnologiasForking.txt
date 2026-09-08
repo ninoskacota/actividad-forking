@@ -6,3 +6,5 @@ Java
 PSeInt
 Tecnologías que deseo aprender:
 GitHub
+Nivel de experiencia:
+Básico-Intermedio
