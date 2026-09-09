@@ -3,7 +3,8 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
+Nombre:Univ. Calderon Ordoñez Jhonatan Jhonatan
 Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
+Semestre: quinto
+Mención: Dir. y Gestión Empresarial 
+Materia: Actualización Tecnologica
