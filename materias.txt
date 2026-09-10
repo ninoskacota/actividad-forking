@@ -2,4 +2,4 @@ MATERIAS
 
 Materia: Actualización Tecnológica
 Gestión: 2026
-Materias registradas: 
+Materias registradas: MAT-1102,SIS-2420,FIS-1200,FIS1102,MAT-1437

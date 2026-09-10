@@ -1,9 +1,9 @@
-ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
+ACTUALIZACIÓN TECNOLÓGICA-PARALELO B
 
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
+Nombre:Univ. Ventura Lima Jhosmar
 Carrera: Ingeniería de Sistemas
-Semestre: Decimo
+Semestre: Cuarto II/2026
 Mención: Gestión de la información 

@@ -1,9 +1,10 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
-Git
-GitHub
+AutoCAD
+autolisp
 Tecnologías que deseo aprender:
-Docker
-Vue
+git
+github
 PostgreSQL
+Mongo db
