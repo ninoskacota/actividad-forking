@@ -1,9 +1,12 @@
-TECNOLOGÍAS
+﻿TECNOLOGÍAS
 
 Tecnologías conocidas:
 Git
 GitHub
+C++
+Java
 Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
+Payton
