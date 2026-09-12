@@ -6,4 +6,4 @@ Datos del estudiante:
 Nombre: cristofer dylan flores
 Carrera: Ingeniería de Sistemas
 Semestre: cuarto
-Mención: Gestión de la información 
+Mencion: modelamiento y optimizacion de recursos
