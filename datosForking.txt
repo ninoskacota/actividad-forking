@@ -3,7 +3,7 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
+Nombre: cristofer dylan flores
 Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
+Semestre: cuarto
+Mencion: modelamiento y optimizacion de recursos
