@@ -8,9 +8,4 @@ Nombre: Herlan Erwin Herrera Calizaya
 Carrera: Ingenieria Informatica
 Semestre: QUINTO
 
-Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
-Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
 
