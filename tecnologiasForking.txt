@@ -1,7 +1,7 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
-<<<<<<< HEAD
+
 Python
 C++
 Haskell
@@ -10,11 +10,11 @@ Tecnologías que deseo aprender:
 Git
 GitHub
 Ruby
-=======
+
 Git
 GitHub
 Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
->>>>>>> bbe4ebb240707afd0b05c6184e52180356e7277c
+
