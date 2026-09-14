@@ -1,9 +1,11 @@
-ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
+ACTUALIZACIÓN TECNOLÓGICA-PARALELO "A" 
+SIS2420
 
 Repositorio principal para práctica de Forking Workflow.
 
-Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
-Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
+Datos del estudiante:
+Nombre: Herlan Erwin Herrera Calizaya
+Carrera: Ingenieria Informatica
+Semestre: QUINTO
+
+

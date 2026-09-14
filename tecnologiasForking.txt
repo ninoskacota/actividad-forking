@@ -1,9 +1,20 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
+
+Python
+C++
+Haskell
+Java
+Tecnologías que deseo aprender:
+Git
+GitHub
+Ruby
+
 Git
 GitHub
 Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
+
