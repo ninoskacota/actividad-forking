@@ -1,9 +1,18 @@
+<<<<<<< HEAD   
+
 ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
-Carrera: Ingeniería de Sistemas
-Semestre: Decimo
-Mención: Gestión de la información 
+Nombre:Univ. Kevin Andres Moreira Vincenti
+Carrera: Ingeniería Informatica
+Semestre: Cuarto
+
+======= 
+
+Mención: Desarrollo de Software
+Ciudad: Oruro
+Telefono: 75403709
+
+>>>>>>> main 

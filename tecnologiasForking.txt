@@ -1,9 +1,14 @@
-TECNOLOGÍAS
+<<<<<<< HEAD   
+---TECNOLOGÍAS---
 
 Tecnologías conocidas:
 Git
 GitHub
+C++
+HTML
 Tecnologías que deseo aprender:
 Docker
 Vue
 PostgreSQL
+Python
+>>>>>>> main 
