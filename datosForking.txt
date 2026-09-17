@@ -3,7 +3,7 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:  
-Nombre:Univ. Ninoska Carolina Cota Huallata
+Nombre:Univ. Barreto Calizaya Edwin Rodrigo
 Carrera: Ingeniería de Sistemas
-Semestre: Decimo
+Semestre: Sexto
 Mención: Gestión de la información 
